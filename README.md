@@ -1,1 +1,1 @@
-# FRP-conUHPC-StackedHybridOptML
+Welcome to the FRP-conUHPC-StackedHybridOptML repository! FRP-conUHPC-StackedHybridOptML is designed to provide a  autonomous and accurate prediction of the ultimate strength of FRP-confined ultra-high performance concrete UHPC with and without steel fibers.
